@@ -1,8 +1,21 @@
 - 👋 Hi, I’m @Kruthikar2804
 - 📫 How to reach me kruthikarworks@gmail.com
 
+# Code Snippet Finder
 
-<!---
-Kruthikar2804/Kruthikar2804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Flask-based web application that allows users to search and extract code snippets from GitHub repositories using the GitHub API.
+
+## Features
+
+- Search for code snippets by keyword
+- Fetch and display results from GitHub repositories
+- Clean and responsive user interface
+- Built using Flask, HTML, CSS, JavaScript, and the GitHub API
+
+## Technologies Used
+
+- Python
+- Flask
+- GitHub API
+- HTML/CSS
+- JavaScript
